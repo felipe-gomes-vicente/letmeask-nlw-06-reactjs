@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react"
-import { database } from "../services/firebase"
-import { useAuth } from "./useAuth"
+import { useEffect, useState } from "react";
+import { database } from "../services/firebase";
+import { useAuth } from "./useAuth";
 
 type FirebaseQuestions = Record<string, {
   author: {
@@ -20,13 +20,14 @@ type QuestionType = {
   author: {
     name: string;
     avatar: string;
-  },
+  }
   content: string;
   isAnswered: boolean;
   isHighlighted: boolean;
   likeCount: number;
-  likeId: string | undefined;
+  likeId: string | undefined,
 }
+
 
 export function useRoom(roomId: string) {
   const { user } = useAuth();
