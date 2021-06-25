@@ -1,3 +1,4 @@
+
 <p align="center">
   <img alt="Letmeask" src=".github/logo.svg" width="160px">
 </p>
@@ -8,14 +9,20 @@
 
 <br>
 
-##### Project developed during **NLW#05 - Next Level Week - ReactJS Track** hosted by [Rocketseat](https://rocketseat.com.br/).
+##### Application developed from Next Level Week Together! **NLW#06  - ReactJS Track** hosted by [Rocketseat](https://rocketseat.com.br/). 
+Letmeask developed to facilitate interaction between people to create questions and answers.
+
+---
+
+Deploy: https://letmeask-638d7.web.app
 
 ## 🧪 Technologies
 
-This project was developed using the following technologies:
+Application developed using the following technologies:
 
 - [React](https://reactjs.org)
-- [Firebase](https://firebase.google.com/)
+- [Firebase Authentication](https://firebase.google.com/products/auth)
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/install)
 
@@ -52,3 +59,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 ---
 
 <p align="center">Made with 💜 by Felipe Vicente👋</p>  
+
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/) 
